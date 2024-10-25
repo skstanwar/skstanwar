@@ -101,7 +101,7 @@
 
 <div align="center">
   
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=skstanwar&theme=highcontrast)](https://github.com/skstanwar/github-readme-streak-stats)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=skstanwar&theme=highcontrast)]
 
  </div>
  
