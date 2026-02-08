@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/sanjaykumarsaini0098"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="https://www.instagram.com/_sanjay_kumar_saini_/"><img src="https://img.shields.io/badge/-@_sanjay_kumar_saini_-E4405Fstyle=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="mailto:kumarsaini0098@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://leetcode.com/u/kumarsaini0098/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
+<a href="https://leetcode.com/u/kumarsaini098/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
 
 -----  
 
