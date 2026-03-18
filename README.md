@@ -42,23 +42,21 @@
 
 <h1 align="center">Projects</h1>
 
-</div>
-<div  align="center">
- 
-<a href="https://github.com/skstanwar/BudgetBuddy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skstanwar&repo=BudgetBuddy&show_icons=true&show_icons=true&theme=great-gatsby" ></a>
-
-<a href="https://github.com/skstanwar/Online-chat-Application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skstanwar&repo=Online-chat-Application&show_icons=true&show_icons=true&theme=great-gatsby" ></a>
-
-<a href="https://github.com/skstanwar/File-Porter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skstanwar&repo=File-Porter&show_icons=true&show_icons=true&theme=great-gatsby" ></a>
-
-<a href="https://github.com/skstanwar/BabyBox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skstanwar&repo=BabyBox&show_icons=true&show_icons=true&theme=great-gatsby" ></a>
-
-<a href="https://github.com/skstanwar/3D-Object-Builder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skstanwar&repo=3D-Object-Builder&show_icons=true&show_icons=true&theme=great-gatsby" ></a>
-
-<a href="https://github.com/skstanwar/Curious-PM-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skstanwar&repo=Curious-PM-&show_icons=true&show_icons=true&theme=great-gatsby" ></a>
-
-
-</div>
+</div >
+<table align="center">
+  <tr>
+    <td><a href="https://github.com/skstanwar/BudgetBuddy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skstanwar&repo=BudgetBuddy&theme=great-gatsby"></a></td>
+    <td><a href="https://github.com/skstanwar/Online-chat-Application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skstanwar&repo=Online-chat-Application&theme=great-gatsby"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/skstanwar/File-Porter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skstanwar&repo=File-Porter&theme=great-gatsby"></a></td>
+    <td><a href="https://github.com/skstanwar/BabyBox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skstanwar&repo=BabyBox&theme=great-gatsby"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/skstanwar/3D-Object-Builder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skstanwar&repo=3D-Object-Builder&theme=great-gatsby"></a></td>
+    <td><a href="https://github.com/skstanwar/Curious-PM-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skstanwar&repo=Curious-PM-&theme=great-gatsby"></a></td>
+  </tr>
+</table>
 
 
 
